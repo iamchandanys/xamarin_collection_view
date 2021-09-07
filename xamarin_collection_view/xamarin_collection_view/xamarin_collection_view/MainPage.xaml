@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamarin_collection_view.MainPage"
+             BackgroundColor="White">
+
+    <StackLayout>
+        <CollectionView ItemsSource="{Binding MyModels}"
+                ItemsLayout="VerticalGrid, 2">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <StackLayout BackgroundColor="{Binding ColorCode}" Padding="5">
+                            <Label Text="{Binding Name}" TextColor="White"></Label>
+                            <Label Text="{Binding Description}" TextColor="White"></Label>
+                        </StackLayout>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+
+</ContentPage>
