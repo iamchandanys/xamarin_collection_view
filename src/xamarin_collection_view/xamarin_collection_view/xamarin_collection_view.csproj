@@ -11,6 +11,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\RewardsBanner.png" />
+    <None Remove="Images\ScratchCardBanner.png" />
+    <None Remove="Images\ScratchCardBannerTop.png" />
+    <None Remove="RewardsBanner.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\RewardsBanner.png" />
+    <EmbeddedResource Include="Images\ScratchCardBanner.png" />
+    <EmbeddedResource Include="Images\ScratchCardBannerTop.png" />
+    <EmbeddedResource Include="RewardsBanner.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
   </ItemGroup>

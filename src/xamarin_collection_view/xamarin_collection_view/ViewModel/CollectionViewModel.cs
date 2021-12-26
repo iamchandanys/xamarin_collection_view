@@ -57,6 +57,156 @@ namespace xamarin_collection_view.ViewModel
                     Name = "Robot",
                     Description = "The robot",
                     ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
+                },
+                new MyModel()
+                {
+                    Name = "Robot",
+                    Description = "The robot",
+                    ColorCode = GenerateRandomColor()
                 }
             };
 
